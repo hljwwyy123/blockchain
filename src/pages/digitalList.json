@@ -1,0 +1,39 @@
+{
+    "errno": 0,
+    "errmsg": "",
+    "data": [
+      {
+        "id": 1,
+        "image": "https://n2-q.mafengwo.net/s12/M00/5E/35/wKgED1uMlMyAZJRzAAARulYLBlI306.png",
+        "name": "GAS/USDT 小蚁Gas",
+        "release_time": "2017/08/08",
+        "market_value_CNY": "764900000000",
+        "market_value_USD": "764900000000",
+        "price_USD": "6200",
+        "price_CNY": "44334",
+        "sign_num": "1000"
+      },
+      {
+        "id": 2,
+        "image": "https://btc123.oss-cn-beijing.aliyuncs.com/142b027b76e04387b81e2e9f711c79ec.jpg",
+        "name": "Ethereum Classic以太坊Ethereum Classic以太坊",
+        "release_time": "2017/08/06",
+        "market_value_CNY": "764900000111",
+        "market_value_USD": "764900000000",
+        "price_USD": "6200",
+        "price_CNY": "44334",
+        "sign_num": "2222"
+      },
+      {
+        "id": 3,
+        "image": "https://btc123.oss-cn-beijing.aliyuncs.com/142b027b76e04387b81e2e9f711c79ec.jpg",
+        "name": "比特币(BTC)",
+        "release_time": "2017/08/01",
+        "market_value_CNY": "764900000222",
+        "market_value_USD": "764900000222",
+        "price_USD": "6200",
+        "price_CNY": "44334",
+        "sign_num": "3333"
+      }
+    ]
+  }

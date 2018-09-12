@@ -1,0 +1,140 @@
+[
+    
+    {
+        "tagName": "特色标签",                      
+        "tagList": [
+            {
+                "tag_id": 0,
+                "tag_text": "全部hh"
+            },
+            {
+                "tag_id": 1,
+                "tag_text": "最多人交易Top100"
+            },
+            {
+                "tag_id": 2,
+                "tag_text": "支持上层APP开发"
+            }
+        ]
+    },
+    {
+        "tagName": "发行时间",
+        "tagList": [
+            {
+                "release_id": 0,
+                "tag_text": "全部1",      
+                "release_value": ""          
+            },
+            {
+                "release_id": 1,
+                "tag_text": 20181,
+                "release_value": 2018
+            },
+            {
+                "release_id": 2,
+                "tag_text": 2017,
+                "release_value": 2017
+            },
+            {
+                "release_id": 0,
+                "tag_text": "全部9",      
+                "release_value": ""          
+            },
+            {
+                "release_id": 1,
+                "tag_text": 20182,
+                "release_value": 2018
+            },
+            {
+                "release_id": 2,
+                "tag_text": 20177,
+                "release_value": 2017
+            },
+            {
+                "release_id": 0,
+                "tag_text": "全部000",      
+                "release_value": ""          
+            },
+            {
+                "release_id": 1,
+                "tag_text": 20183,
+                "release_value": 2018
+            },
+            {
+                "release_id": 2,
+                "tag_text": 20147,
+                "release_value": 2017
+            },
+            {
+                "release_id": 0,
+                "tag_text": "test",      
+                "release_value": ""          
+            },
+            {
+                "release_id": 1,
+                "tag_text": 20185,
+                "release_value": 2018
+            },
+            {
+                "release_id": 2,
+                "tag_text": 201722,
+                "release_value": 2017
+            },
+            {
+                "release_id": 0,
+                "tag_text": "全部890",      
+                "release_value": ""          
+            },
+            {
+                "release_id": 1,
+                "tag_text": 2018213,
+                "release_value": 2018
+            },
+            {
+                "release_id": 2,
+                "tag_text": 2018123,
+                "release_value": 2018
+            },
+            {
+                "release_id": 0,
+                "tag_text": "全部66",      
+                "release_value": ""          
+            },
+            {
+                "release_id": 1,
+                "tag_text": 2018455,
+                "release_value": 2018
+            },
+            {
+                "release_id": 2,
+                "tag_text": 2020,
+                "release_value": 2020
+            }
+        ]
+    },
+    {
+        "tagName": "关注人数",
+        "tagList": [
+            {
+                "sign_id": 0,
+                "tag_text": "全部",          
+                "sign_value": ""             
+            },
+            {
+                "sign_id": 1,
+                "tag_text": "1万以上",
+                "sign_value": "10000"
+            },
+            {
+                "sign_id": 2,
+                "tag_text": "5000-10000",
+                "sign_value": "5000-10000"
+            },
+            {
+                "sign_id": 2,
+                "tag_text": "小与5000",
+                "sign_value": "0-5000"
+            }
+        ]
+    }
+]
